@@ -1,0 +1,26 @@
+.test {
+    li {
+        font-size: 30px;
+
+        a {
+            color: inherit;
+            text-decoration: none;
+
+            &.active {
+                color: #f00;
+            }
+
+            &:hover {
+                color: #369;
+            }
+        }
+
+    }
+
+    @for $i from 1 to 4 {
+        .link0#{$i} {
+            background: url(../public/assets/images/main_m0#{$i}.jpg);
+        }
+    }
+
+}
