@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/router_test/static/css/main.073c9b0a.css",
-    "main.js": "/router_test/static/js/main.8491adaa.js",
+    "main.css": "/router_test/static/css/main.32c62120.css",
+    "main.js": "/router_test/static/js/main.7e650c60.js",
     "static/js/787.379bbf94.chunk.js": "/router_test/static/js/787.379bbf94.chunk.js",
+    "static/media/main_m03.jpg": "/router_test/static/media/main_m03.80568b6ebe9ec19a6607.jpg",
+    "static/media/main_m02.jpg": "/router_test/static/media/main_m02.3702bb17d684ad7bdd17.jpg",
+    "static/media/main_m01.jpg": "/router_test/static/media/main_m01.53a25a2ec13ee084c2fc.jpg",
     "index.html": "/router_test/index.html",
-    "main.073c9b0a.css.map": "/router_test/static/css/main.073c9b0a.css.map",
-    "main.8491adaa.js.map": "/router_test/static/js/main.8491adaa.js.map",
+    "main.32c62120.css.map": "/router_test/static/css/main.32c62120.css.map",
+    "main.7e650c60.js.map": "/router_test/static/js/main.7e650c60.js.map",
     "787.379bbf94.chunk.js.map": "/router_test/static/js/787.379bbf94.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8491adaa.js"
+    "static/css/main.32c62120.css",
+    "static/js/main.7e650c60.js"
   ]
 }
